@@ -1,2 +1,4 @@
 # Recitation-3308
-Repository for 3308
+Name: Malcolm McKellips
+Assignment: Lab 4
+
